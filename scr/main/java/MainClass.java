@@ -4,4 +4,5 @@ public class MainClass {
     //some changes from master branch
 
     //standard developing
+    //hotfix developing on hotfix branch
 }
