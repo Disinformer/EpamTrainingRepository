@@ -7,4 +7,6 @@ public class MainClass {
     //hotfix developing on hotfix branch
     
     //some changes from web github
+    
+    //new changes from web
 }
