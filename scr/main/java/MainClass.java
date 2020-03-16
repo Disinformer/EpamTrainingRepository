@@ -12,5 +12,5 @@ public class MainClass {
     //new changes from web
 
     //some changes without feature for rebase
-    //some changes without feature for rebase
+    //code for stashing
 }
